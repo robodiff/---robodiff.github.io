@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: KROs
-description: K R Organisms
+title: diffrobo
+description: Diff Robo
 plugins:
   - jekyll-relative-links
 relative_links:
