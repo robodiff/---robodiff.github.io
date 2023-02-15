@@ -29,7 +29,7 @@ is ...
 **Sam Kriegman**
 is an assistant professor of computer science, chemical and biological engineering, and mechanical engineering at Northwestern University. 
 His research seeks general theories of life, in which the details of carbon-based organisms would represent a special case.
-An AI2050 Fellow and Cozzarelli Prize recipient, he is the co-creator of the world's first computer-designed organisms (the "xenobots") and the director of the Xenobot Lab.
+A Schmidt Futures AI2050 Fellow and Cozzarelli Prize recipient, he is the co-creator of the world's first computer-designed organisms (the "xenobots") and the director of the Xenobot Lab.
 <br><br><br>
 
 [<img src="https://cdorgs.github.io/img/josh.jpg" width="25%">](https://jbongard.github.io/)<br>
