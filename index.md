@@ -4,7 +4,7 @@
 ![image](https://robodiff.github.io/gifs/summary.gif)<br>
 [youtube](https://youtu.be/...) |
 [download](https://drive.google.com/file/d/.../view)<br>
-Robots are notoriously difficult to design because of complex interdependencies between their physical structure, sensory and motor layouts, and behavior. Despite this, almost every detail of every robot built to date has been manually determined by a human designer after several months or years of iterative ideation, prototyping, and testing. Inspired by evolutionary design in nature, the automated design of robots using evolutionary algorithms has been attempted for two decades, but it too remains inefficient: days of supercomputing are required to design robots in simulation that, when manufactured, exhibit desired behavior. Here we show for the first time _de-novo_ optimization of a robot’s structure to exhibit a desired behavior, within seconds on a single consumer-grade computer, and the manufactured robot’s retention of that behavior. Unlike other gradient-based robot design methods, this algorithm does not presuppose any particular anatomical form; starting instead from a randomly-generated apodous body plan, it consistently discovers legged locomotion, the most efficient known form of terrestrial movement. If combined with automated fabrication and scaled up to more challenging tasks, this advance promises near instantaneous design, manufacture, and deployment of unique and useful machines for medical, environmental, vehicular, and space-based tasks.
+abstract here
 
 
 ### **The paper in a nutshell:**
