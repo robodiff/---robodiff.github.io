@@ -1,22 +1,14 @@
 ## About
 
-Kriegman, S.\*, Blackiston, D.\*, Levin, M., Bongard, J. (2021)  <br>
-"[Kinematic self-replication in reconfigurable organisms](https://www.pnas.org/content/118/49/e2112672118)",  <br>
-_Proceedings of the National Academy of Sciences (PNAS)_, vol. 118, no. 49, e2112672118. <!-- pp. ??-??. -->
-<br><br>
 
+![image](https://robodiff.github.io/gifs/summary.gif)<br>
+[youtube](https://youtu.be/...) |
+[download](https://drive.google.com/file/d/.../view)<br>
+Robots are notoriously difficult to design because of complex interdependencies between their physical structure, sensory and motor layouts, and behavior. Despite this, almost every detail of every robot built to date has been manually determined by a human designer after several months or years of iterative ideation, prototyping, and testing. Inspired by evolutionary design in nature, the automated design of robots using evolutionary algorithms has been attempted for two decades, but it too remains inefficient: days of supercomputing are required to design robots in simulation that, when manufactured, exhibit desired behavior. Here we show for the first time _de-novo_ optimization of a robot’s structure to exhibit a desired behavior, within seconds on a single consumer-grade computer, and the manufactured robot’s retention of that behavior. Unlike other gradient-based robot design methods, this algorithm does not presuppose any particular anatomical form; starting instead from a randomly-generated apodous body plan, it consistently discovers legged locomotion, the most efficient known form of terrestrial movement. If combined with automated fabrication and scaled up to more challenging tasks, this advance promises near instantaneous design, manufacture, and deployment of unique and useful machines for medical, environmental, vehicular, and space-based tasks.
 
-![image](https://krorgs.github.io/gifs/X3summary.gif)<br>
-[youtube](https://youtu.be/zuo2DP72vKQ) |
-[download](https://drive.google.com/file/d/1mQvgId9WKX5cfZM8jqmWDsyFNG9usZDL/view)<br>
-Almost all organisms replicate by growing and then shedding offspring. Some molecules also replicate, but by moving rather than growing: they find and combine building blocks into self copies. Here we show that clusters of cells, if freed from a developing organism, can similarly find and combine loose cells into clusters that look and move like they do, and that this ability does not have to be specifically evolved or introduced by genetic manipulation. Finally, we show that AI can design clusters that replicate better, and perform useful work as they do so. This suggests future technologies may, with little outside guidance, become more useful as they spread, and that life harbors surprising behaviors just below the surface, waiting to be uncovered.
 
 ### **The paper in a nutshell:**
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/-tKlIZXHiOo" frameborder="0" allowfullscreen></iframe>
-
-<!-- ### **Press conference:**
-
-Wed Dec 1, 12-1pm EST. Register [here](https://harvard.zoom.us/webinar/register/WN_0EfTB6z4RJuAP-l7zgNZWQ). -->
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/..." frameborder="0" allowfullscreen></iframe>
 
 ### **More:**
 
@@ -30,8 +22,7 @@ Learn about [the team](/team).
 
 ### **Still have questions?** 
 
-Please [email the whole team](mailto:sam.kriegman@northwestern.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
+[Email us](mailto:sam.kriegman@northwestern.edu)!
 
-Each of us made unique contributions to the paper, and thus have unique perspectives on the work.
 
 <br><br><br>
