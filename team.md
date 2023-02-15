@@ -38,7 +38,7 @@ An AI2050 Fellow and Cozzarelli Prize recipient, he is the co-creator of the wor
 <a href="https://twitter.com/DoctorJosh" target="_blank"><i class="fab fa-twitter icon" title="tweet josh"></i></a>
 
 **Josh Bongard** 
-is the Veinott Professor of Computer Science at the University of Vermont and director of the [Morphology, Evolution & Cognition Laboratory](https://www.meclab.org/). His work involves automated design and manufacture of soft-, evolved-, and crowdsourced robots, as well as computer-designed organisms. A PECASE, TR35, and Cozzarelli Prize recipient, he has received funding from NSF, NASA, DARPA, ARO and the Sloan Foundation. He is the co-author of the book [How The Body Shapes the Way We Think](https://mitpress.mit.edu/books/how-body-shapes-way-we-think), the instructor of a reddit-based [evolutionary robotics MOOC](https://www.reddit.com/r/ludobots/wiki/index#welcome), and director of the robotics outreach program [Twitch Plays Robotics](https://www.twitch.tv/twitchplaysrobotics).
+is the Veinott Professor of Computer Science at the University of Vermont and director of the Morphology, Evolution & Cognition Laboratory. His work involves automated design and manufacture of soft-, evolved-, and crowdsourced robots, as well as computer-designed organisms. A PECASE, TR35, and Cozzarelli Prize recipient, he has received funding from NSF, NASA, DARPA, ARO and the Sloan Foundation. He is the co-author of the book How The Body Shapes the Way we Think, the instructor of a reddit-based evolutionary robotics MOOC, and director of the robotics outreach program Twitch Plays Robotics.
 <br><br><br>
 
 
