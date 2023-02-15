@@ -1,7 +1,5 @@
-## Papers
+## Paper
 
-
-#### **Differentiable Robotics**
 
 Matthews, D., Spielberg, A., Rus, D., Kriegman, S.\*, Bongard, J. (2023)  <br>
 "[Efficient automatic design of robots](https://www....)",  <br>
