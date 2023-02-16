@@ -12,7 +12,7 @@ abstract here
 
 ### **More:**
 
-Read the [paper](/papers) and [press release](https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce).
+Read the [paper](/papers) and [press release](...).
 
 View, download, and use our [images](/images) and [videos](/videos) with atribution ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)).
 
