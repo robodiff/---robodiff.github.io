@@ -21,7 +21,7 @@ is the Andrew (1956) and Erna Viterbi Professor of Electrical Engineering and Co
 [<img src="/img/sam.jpg" width="25%">](http://samkriegman.com)<br>
 
 **Sam Kriegman**
-is an assistant professor of computer science, chemical and biological engineering, and mechanical engineering at Northwestern University and the director of the Xenobot Lab.
+is an Assistant Professor of Computer Science, Chemical & Biological Engineering, and Mechanical Engineering at Northwestern University and the director of the Xenobot Lab.
 <br><br><br>
 
 [<img src="https://cdorgs.github.io/img/josh.jpg" width="25%">](https://jbongard.github.io/)<br>
