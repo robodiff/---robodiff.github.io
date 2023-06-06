@@ -6,13 +6,13 @@
 is a staff scientist in the Xenobot Lab at Northwestern University.
 <br><br><br>
 
-[<img src="https://robodiff.github.io/img/andy.jpg" width="25%">](http://www.andrewspielberg.com)<br>
+[<img src="/img/andy.jpg" width="25%">](http://www.andrewspielberg.com)<br>
 
 **Andrew Spielberg**
 was a PhD student at MIT and is now a postdoctoral researcher at Harvard University.
 <br><br><br>
 
-[<img src="https://robodiff.github.io/img/daniela.jpg" width="25%">](https://danielarus.csail.mit.edu)<br>
+[<img src="/img/daniela.jpg" width="25%">](https://danielarus.csail.mit.edu)<br>
 
 **Daniela Rus**
 is the Andrew (1956) and Erna Viterbi Professor of Electrical Engineering and Computer Science and Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT.
