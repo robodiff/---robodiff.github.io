@@ -18,7 +18,7 @@ was a PhD student at MIT and is now a postdoctoral researcher at Harvard Univers
 is the Andrew (1956) and Erna Viterbi Professor of Electrical Engineering and Computer Science and Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT.
 <br><br><br>
 
-[<img src="https://robodiff.github.io/img/sam.jpg" width="25%">](http://samkriegman.com)<br>
+[<img src="/img/sam.jpg" width="25%">](http://samkriegman.com)<br>
 
 **Sam Kriegman**
 is an assistant professor of computer science, chemical and biological engineering, and mechanical engineering at Northwestern University and the director of the Xenobot Lab.
