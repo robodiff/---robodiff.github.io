@@ -6,7 +6,7 @@
 is a Staff Scientist in the Xenobot Lab at Northwestern University.
 <br><br><br>
 
-[<img src="/img/andy.png" width="25%">](http://www.andrewspielberg.com)<br>
+[<img src="/img/andy.jpg" width="25%">](http://www.andrewspielberg.com)<br>
 
 **Andrew Spielberg**
 was a PhD student at MIT and is now a Postdoctoral Fellow at Harvard University.
