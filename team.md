@@ -1,6 +1,6 @@
 ## Team
 
-[<img src="https://robodiff.github.io/img/david.jpg" width="25%">](https://www.linkedin.com/in/david-matthews-9b81a5177/)<br>
+[<img src="/img/david.jpg" width="25%">](https://www.linkedin.com/in/david-matthews-9b81a5177/)<br>
 
 **David Matthews**
 is a staff scientist in the Xenobot Lab at Northwestern University.
