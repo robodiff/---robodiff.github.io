@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: diffrobo
-description: Diff Robo
+title: instant evolution
+description: Instant evolution
 plugins:
   - jekyll-relative-links
 relative_links:
