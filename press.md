@@ -15,6 +15,22 @@ For press inquiries, please [email Sam Kriegman](mailto:skriegman@northwestern.e
 ## CBS Morning Chicago
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/F_6huNAVAsI" frameborder="0" allowfullscreen></iframe>
 
+## New Scientist
+[asdf](asdf)
+
+## Scientific American
+[asdf](asdf)
+
+## Nautilus Magazine
+[asdf](asdf)
+
+## Gizmodo
+['Instant Evolution': AI Creates a Squishy Purple Blob That Uses Air to Walk](https://gizmodo.com/instant-evolution-ai-creates-a-squishy-purple-blob-th-1850914357)
+
+## Business Insider
+[AI was told to design a robot that could walk. Within seconds, it generated a 'small, squishy, and misshapen' thing that spasms.](https://www.businessinsider.com/ai-designs-small-squishy-misshapen-robot-walks-by-spasming-northwestern-2023-10)
+
+
 
 <br><br><br>
 
