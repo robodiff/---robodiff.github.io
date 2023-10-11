@@ -15,6 +15,9 @@ For press inquiries, please [email Sam Kriegman](mailto:skriegman@northwestern.e
 ## CBS Morning Chicago
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/F_6huNAVAsI" frameborder="0" allowfullscreen></iframe>
 
+## USTV 非凡電視
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/cmBxpr7l_tw" frameborder="0" allowfullscreen></iframe>
+
 ## New Scientist
 [asdf](asdf)
 
