@@ -24,10 +24,7 @@ For press inquiries, please [email Sam Kriegman](mailto:skriegman@northwestern.e
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Z8_aMN4Vm9A" frameborder="0" allowfullscreen></iframe>
 
 ## Scientific American
-[asdf](asdf)
-
-## Nautilus Magazine
-[asdf](asdf)
+[AI Designs Little Robots in 30 Seconds and They Keep Sprouting Legs](https://www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/)
 
 ## Business Insider
 [AI was told to design a robot that could walk. Within seconds, it generated a 'small, squishy, and misshapen' thing that spasms.](https://www.businessinsider.com/ai-designs-small-squishy-misshapen-robot-walks-by-spasming-northwestern-2023-10)
