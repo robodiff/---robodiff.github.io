@@ -13,13 +13,13 @@ More videos can be found [here](https://drive.google.com/drive/folders/1l7KvTvPr
 
 
 ![image](https://robodiff.github.io/gifs/10_Random_vs_Optimized.gif) <br>
-The AI-generated robot. <br>
+The robot before (top) and after (bottom) AI-driven automatic design. <br>
 [youtube](https://youtu.be/JGcJFegUavE) |
 [download](https://drive.google.com/file/d/1awBbKeMpuL2cDDXyXXWWNSknae_aZs9c/view)
 <br><br>
 
 ![image](https://robodiff.github.io/gifs/00c_heartbeat.gif) <br>
-The AI-generated robot. <br>
+The AI-generated robot actuates. <br>
 [youtube](https://youtu.be/BNW6ZQdwkFc) |
 [download](https://drive.google.com/file/d/1MyeVj-2136wOjUwIS3iWIMQ01SVyCk_C/view)
 <br><br>
