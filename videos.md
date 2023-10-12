@@ -28,7 +28,7 @@ A purple clone of the AI-generated robot. <br>
 <br><br>
 
 
-![image](https://robodiff.github.io/gifs/...) <br>
+![image](https://robodiff.github.io/gifs/03c_dark_robot_4x.gif) <br>
 A very dark purple clone of the AI-generated robot. <br>
 [youtube](https://youtu.be/8NCZKv-4FTw) |
 [download](https://drive.google.com/file/d/13KqwhryysDFTWAvnZPSvlAAWyVMqfDyc/view)
