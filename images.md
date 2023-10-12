@@ -3,6 +3,8 @@
 All images are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 Please credit: "David Matthews and Sam Kriegman".
+
+More images can be found [here](https://drive.google.com/drive/folders/1Xakfg_9PuTAyPsxpoYOs8ZhOY7y3KaiP).
 <br>
 
 ![image](https://robodiff.github.io/img/Design_Attempts_1_3_10.png) <br>
