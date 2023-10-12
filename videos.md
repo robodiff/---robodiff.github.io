@@ -6,6 +6,9 @@ licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 Please credit: "David Matthews and Sam Kriegman".
 
 Watch the full videos on youtube or download them using the links below each gif preview.
+
+More videos can be found [here](https://drive.google.com/drive/folders/1l7KvTvPrhTOMbUTWamG9Auff9mNC_mUL).
+
 <br><br>
 
 
