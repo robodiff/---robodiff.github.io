@@ -15,7 +15,7 @@ This opens the way toward bespoke AI-driven design of robots for a wide range of
 
 ### **More:**
 
-Read the [paper](/paper).
+Read the [paper](/paper) and [press release](https://news.northwestern.edu/stories/2023/10/instant-evolution-ai-designs-new-robot-from-scratch-in-seconds/).
 
 View, download, and use our [images](/images) and [videos](/videos) with atribution ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)).
 
