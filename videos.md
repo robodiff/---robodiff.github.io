@@ -3,9 +3,16 @@
 All videos are
 licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
-Please credit: "David Matthews".
+Please credit: "David Matthews and Sam Kriegman".
 
 Watch the full videos on youtube or download them using the links below each gif preview.
+<br><br>
+
+
+![image](https://robodiff.github.io/gifs/00c_heartbeat.gif) <br>
+The AI-generated robot. <br>
+[youtube](https://youtu.be/BNW6ZQdwkFc) |
+[download](https://drive.google.com/file/d/1MyeVj-2136wOjUwIS3iWIMQ01SVyCk_C/view)
 <br><br>
 
 ![image](https://robodiff.github.io/gifs/01c_white_robot_4x.gif) <br>
