@@ -10,6 +10,8 @@ For press inquiries, please [email Sam Kriegman](mailto:skriegman@northwestern.e
 
 
 ## Reuters
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dc8sz_9ySRQ" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/fyUp6GGJkjo" frameborder="0" allowfullscreen></iframe>
 
 ## CBS Morning Chicago
@@ -19,7 +21,7 @@ For press inquiries, please [email Sam Kriegman](mailto:skriegman@northwestern.e
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/cmBxpr7l_tw" frameborder="0" allowfullscreen></iframe>
 
 ## New Scientist
-[asdf](asdf)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Z8_aMN4Vm9A" frameborder="0" allowfullscreen></iframe>
 
 ## Scientific American
 [asdf](asdf)
@@ -27,11 +29,11 @@ For press inquiries, please [email Sam Kriegman](mailto:skriegman@northwestern.e
 ## Nautilus Magazine
 [asdf](asdf)
 
-## Gizmodo
-['Instant Evolution': AI Creates a Squishy Purple Blob That Uses Air to Walk](https://gizmodo.com/instant-evolution-ai-creates-a-squishy-purple-blob-th-1850914357)
-
 ## Business Insider
 [AI was told to design a robot that could walk. Within seconds, it generated a 'small, squishy, and misshapen' thing that spasms.](https://www.businessinsider.com/ai-designs-small-squishy-misshapen-robot-walks-by-spasming-northwestern-2023-10)
+
+## Gizmodo
+['Instant Evolution': AI Creates a Squishy Purple Blob That Uses Air to Walk](https://gizmodo.com/instant-evolution-ai-creates-a-squishy-purple-blob-th-1850914357)
 
 
 
