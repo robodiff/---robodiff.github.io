@@ -41,7 +41,7 @@ A very dark purple clone of the AI-generated robot: validating design with stiff
 <br><br>
 
 ![image](https://robodiff.github.io/gifs/11_design_evolution.gif) <br>
-Evolution from random to optimized: the 9 design revisions made by AI. <br>
+Evolution from random to optimized: the 9 design revisions made by AI. (Red = muscle; gray = fat.) <br>
 [youtube](https://youtu.be/M9t3HO52uAc) |
 [download](https://drive.google.com/file/d/1ZR2SxM9l5VnF-8G6jEkyaMIuzuTUU7W4/view)
 <br><br>
