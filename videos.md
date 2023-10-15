@@ -16,14 +16,6 @@ The robot before (top) and after (bottom) AI-driven automatic design. <br>
 [download](https://drive.google.com/file/d/1awBbKeMpuL2cDDXyXXWWNSknae_aZs9c/view)
 <br><br>
 
-
-![image](https://robodiff.github.io/gifs/11_design_evolution.gif) <br>
-Evolution from random to optimized: the 9 design revisions made by AI. <br>
-[youtube](https://youtu.be/M9t3HO52uAc) |
-[download](https://drive.google.com/file/d/1ZR2SxM9l5VnF-8G6jEkyaMIuzuTUU7W4/view)
-<br><br>
-
-
 ![image](https://robodiff.github.io/gifs/01c_white_robot_4x.gif) <br>
 The AI-generated robot. <br>
 [youtube](https://youtu.be/aWK6LPeOEBg) |
@@ -37,13 +29,19 @@ The AI-generated robot actuates. <br>
 <br><br>
 
 ![image](https://robodiff.github.io/gifs/02c_purple_robot_4x.gif) <br>
-A purple clone of the AI-generated robot. <br>
+A purple clone of the AI-generated robot: validating design with softer material. <br>
 [youtube](https://youtu.be/Rwmi27lrNLY) |
 [download](https://drive.google.com/file/d/195YXPyoeenQ0LW5rKyqKBBe-lNod_Sh1/view)
 <br><br>
 
 ![image](https://robodiff.github.io/gifs/03c_dark_robot_4x.gif) <br>
-A very dark purple clone of the AI-generated robot. <br>
+A very dark purple clone of the AI-generated robot: validating design with stiffer material. <br>
 [youtube](https://youtu.be/8NCZKv-4FTw) |
 [download](https://drive.google.com/file/d/13KqwhryysDFTWAvnZPSvlAAWyVMqfDyc/view)
+<br><br>
+
+![image](https://robodiff.github.io/gifs/11_design_evolution.gif) <br>
+Evolution from random to optimized: the 9 design revisions made by AI. <br>
+[youtube](https://youtu.be/M9t3HO52uAc) |
+[download](https://drive.google.com/file/d/1ZR2SxM9l5VnF-8G6jEkyaMIuzuTUU7W4/view)
 <br><br>
