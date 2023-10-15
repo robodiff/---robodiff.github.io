@@ -41,13 +41,13 @@ A very dark purple clone of the AI-generated robot: validating design with stiff
 <br><br>
 
 ![image](https://robodiff.github.io/gifs/11_design_evolution.gif) <br>
-Evolution from random to optimized: the 9 design revisions made by AI. (Red = muscle; gray = fat.) <br>
+Evolution from random to optimized: the 9 design revisions made by AI. <br>
 [youtube](https://youtu.be/M9t3HO52uAc) |
 [download](https://drive.google.com/file/d/1ZR2SxM9l5VnF-8G6jEkyaMIuzuTUU7W4/view)
 <br><br>
 
 ![image](https://robodiff.github.io/gifs/12_particle_evolution.gif) <br>
-What the AI sees (particles and red muscles) and how it acts (adding/removing particles, moving muscles). <br>
+(Part of) what the AI sees as it improves the design. <br>
 [youtube](https://youtu.be/0UtJSXAln64) |
 [download](https://drive.google.com/file/d/1NYmfHg56MqHvdHNQj38kJIMnCkutEPuO/view)
 <br><br>
