@@ -45,3 +45,9 @@ Evolution from random to optimized: the 9 design revisions made by AI. <br>
 [youtube](https://youtu.be/M9t3HO52uAc) |
 [download](https://drive.google.com/file/d/1ZR2SxM9l5VnF-8G6jEkyaMIuzuTUU7W4/view)
 <br><br>
+
+![image](https://robodiff.github.io/gifs/12_particle_evolution.gif) <br>
+What the AI sees (particles and muscles) and how it acts (adding/removing particles, moving muscles). <br>
+[youtube](https://youtu.be/0UtJSXAln64) |
+[download](https://drive.google.com/file/d/1NYmfHg56MqHvdHNQj38kJIMnCkutEPuO/view)
+<br><br>
