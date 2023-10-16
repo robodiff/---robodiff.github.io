@@ -36,7 +36,23 @@ For press inquiries, please [email Sam Kriegman](mailto:skriegman@northwestern.e
 ## Gizmodo
 ['Instant Evolution': AI Creates a Squishy Purple Blob That Uses Air to Walk](https://gizmodo.com/instant-evolution-ai-creates-a-squishy-purple-blob-th-1850914357)
 
+## Euronews
+[Researchers in the US have trained AI to design a robot from scratch](https://www.euronews.com/next/2023/10/16/researchers-in-the-us-have-trained-ai-to-design-a-robot-from-scratch)
 
+## India Today
+[This robot is built by AI and can walk as well. Video is viral](https://www.indiatoday.in/trending-news/story/this-robot-is-built-by-ai-and-can-walk-as-well-video-is-viral-2448844-2023-10-14)
+
+## Jerusalem Post
+[Instant evolution: AI system designs and creates walking robot in seconds](https://www.jpost.com/science/article-761765)
+
+## Hindustan Times
+[Robot created from scratch using AI takes its very first 'awkward' steps](https://www.hindustantimes.com/trending/robot-created-from-scratch-using-ai-takes-its-very-first-awkward-steps-101697176780465.html)
+
+## Der Standard (Germany)
+[AI designs walking robots in just 26 seconds](https://www.derstandard.at/story/3000000190396/ki-designt-gehenden-roboter-in-nur-26-sekunden)
+
+## Futura Sciences (France)
+[Robots generated in seconds by artificial intelligence!](https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-robots-generes-quelques-secondes-intelligence-artificielle-108195/)
 
 <br><br><br>
 
