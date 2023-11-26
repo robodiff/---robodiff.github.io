@@ -10,7 +10,6 @@ For press inquiries, please [email Sam Kriegman](mailto:skriegman@northwestern.e
 
 ## CBS Evening News
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Rs3ua3j8woE" frameborder="0" allowfullscreen></iframe>
-<br><br>
 
 ## Reuters
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/dc8sz_9ySRQ" frameborder="0" allowfullscreen></iframe>
